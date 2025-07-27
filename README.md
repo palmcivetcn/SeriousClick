@@ -1,6 +1,7 @@
 # SeriousClick - 专业连点器
 
 一个用Rust编写的功能丰富、人性化的图形界面鼠标连点器应用程序。
+![img.png](img.png)
 
 ## 功能特点
 
